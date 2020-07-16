@@ -1,0 +1,36 @@
+body {
+    background-image: url("istockphoto-1201524652-1024x1024.jpg");
+    background-color: #cccccc;
+   }
+h1{
+    text-align: center;
+    color: darkred;
+    font-style: italic;
+}
+.one, .two, .three{
+    font-size: large;
+    font: 1em sans-serif;
+    color: maroon;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.5rem;
+}
+
+.poem1{
+    color: maroon;
+    font-size: large;
+    font: 2em sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.poem2{
+    color: maroon;
+    font-size: large;
+    font: 1.2em sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+.heart{
+    text-align: center;
+}
